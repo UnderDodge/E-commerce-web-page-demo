@@ -1,0 +1,1 @@
+<?xml version="1.0" ?><shop.dao.Config><conn>jdbc:mysql://localhost/myshop?user=root&amp;password=</conn></shop.dao.Config>

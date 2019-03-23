@@ -1,0 +1,56 @@
+
+	body {
+		background-color: #e1ffda;
+	}
+
+	.divborder{
+		border: 1px solid red;
+		font-family: 'Arimo', sans-serif;
+	}
+	
+	.outer{
+		width: 600px;
+		height: 300px;
+	}
+	
+	.name{
+		height: 100
+	}
+	
+	.pic{
+		width: 155px;
+		height: 160px;
+		float: left;
+	}
+	
+	.description{
+		width: 437px;
+		height: 150px;
+		float: left;
+		font-size: 12px;
+		text-align: center;
+		padding-top: 10px;
+	}
+	
+	.price{
+		width: 155px;
+		height: 50px;
+		float: left;
+		text-align: center;
+	}
+	
+	.buy{
+		width: 437px;
+		height: 50px;
+		float: left;
+		text-align: center;
+	}
+	
+	.div{
+		width: 500px;
+		height: 200px;
+		box-shadow: inset 2px 2px 6px #EBEBEB, 0 0 4px #D0E6F6, 0 0 0 5px #F2F8FC;
+	}
+	
+	
+	
